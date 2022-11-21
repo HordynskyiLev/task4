@@ -1,0 +1,48 @@
+  body {
+      background-color: rgb(119, 119, 119);
+  }
+
+  .textcolor1 {
+      color: rgb(255, 149, 0)
+  }
+
+  .textcolor2 {
+      color: rgb(255, 149, 0)
+  }
+
+  .textcolor3 {
+      color: rgb(255, 149, 0)
+  }
+
+  .d1 {
+      font-size: xx-large;
+      text-align: center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-style: normal;
+      margin: -10px;
+      margin-bottom: 32px;
+  }
+
+  .d2 {
+      background-color: rgb(8, 14, 43);
+      margin-bottom: 30px;
+      text-align: center;
+      margin: auto;
+      padding-right: -20px;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      margin-block: -15px;
+      border-style: double;
+      border-color: rgb(255, 149, 0);
+      border-left: none;
+      border-right: none;
+      border-width: 10px;
+  }
+
+  .d3 {
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      margin-left: 245px;
+      margin-right: 230px;
+      margin-top: 25px;
+
+  }
